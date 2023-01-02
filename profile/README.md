@@ -1,4 +1,4 @@
-![](./bg.png)
+![](https://raw.githubusercontent.com/rabani-to/.github/master/profile/bg.png)
 
 <p>
   <a href="https://linkedin.com/in/d3portillo">Linkedin</a>
