@@ -10,8 +10,6 @@
 
 ---
 
-We are a Software Development company that helps DAOs create solutions for their on-chain systems.
-
 Radish mission is to build better software for the decentralized. Our team is a collective of nerds, digital nomads and misfit computer scientists that solves client's challenges by providing value, ownership, and trust.
 
-Do you want to join us? [See open positions.](https://www.radish.la/jobs)
+Want to join us? [See open positions.](https://www.radish.la/jobs)
